@@ -6,6 +6,8 @@
 
 Discover WoW damage calculators, class performance utilities, specialization guides, quest route planners, addon investigations and customizable character settings.
 
+**A powerful automation script for World of Warcraft Midnight (Forever soon) focused on damage, dps, pixel-based combat rotations, automated gold farming**
+
 ## 🔥 MAIN TOOLKIT FEATURES
 
 - ⚔️ Combat Rotation Optimization
